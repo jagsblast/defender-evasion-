@@ -1,0 +1,16 @@
+﻿  Disable-TamperProtection.cpp
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(129,4): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(599,26): warning C4477: 'swprintf' : format string '%15s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(606,25): warning C4477: 'swprintf' : format string '%15s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(646,12): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(646,12): warning C4473: 'wprintf' : not enough arguments passed for format string
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(660,13): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(660,13): warning C4473: 'wprintf' : not enough arguments passed for format string
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(671,4): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(301): warning C4715: 'TrustedInstallerProcessToDisableTamperProtection': not all control paths return a value
+C:\Users\ben\Desktop\Disable-TamperProtection-main\Disable-TamperProtection.cpp(417): warning C4715: 'TrustedInstallerProcessToDisableAV': not all control paths return a value
+  Finished generating code
+  Disable-TamperProtection.vcxproj -> C:\Users\ben\Desktop\Disable-TamperProtection-main\x64\Release\Disable-TamperProtection.exe
